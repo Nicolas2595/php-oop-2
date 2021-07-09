@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background-color: dodgerblue;
+}
+
+h1 {
+    text-align: center;
+    line-height: 100px;
+    color: yellow;
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: red;
+}
+
+h3 {
+    margin: 5px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    padding: 10px;
+    text-decoration: underline;
+}
